@@ -1,7 +1,7 @@
 # SSO_Salesforce
 
 This is an Express Server App <br />
-Which uses ## simple-oauth2 to connect to SalesForce App and use its Rest API's
+Which uses <b>simple-oauth2</b> to connect to SalesForce App and use its Rest API's
 
 The Project is Open to Connect to Any Application Just by changing <b>ENV.js</b>
 with your details
